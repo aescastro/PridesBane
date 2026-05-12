@@ -9,7 +9,7 @@ using MegaCrit.Sts2.Core.GameActions.Multiplayer;
 namespace PridesBane.PridesBaneCode.Cards;
 
 public abstract class PridesBaneCard() :
-    CustomCardModel(1, CardType.Curse, CardRarity.Curse,TargetType.None)
+    CustomCardModel(1, CardType.Curse, CardRarity.None,TargetType.None)
 {
     //Image size:
     //Normal art: 1000x760 (Using 500x380 should also work, it will simply be scaled.)

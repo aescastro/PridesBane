@@ -6,7 +6,7 @@ using MegaCrit.Sts2.Core.Models.CardPools;
 
 namespace PridesBane.PridesBaneCode.Cards;
 
-[Pool(typeof(DefectCardPool))]
+[Pool(typeof(CurseCardPool))]
 public class PridesBane() : PridesBaneCard()
 {
 }
