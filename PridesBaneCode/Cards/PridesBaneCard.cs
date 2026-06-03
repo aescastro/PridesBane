@@ -32,10 +32,11 @@ public abstract class PridesBaneCard() :
     {
         get
         {
-            return new CardKeyword[2]
+            return new CardKeyword[3]
             {
                 CardKeyword.Innate,
-                CardKeyword.Exhaust
+                CardKeyword.Exhaust,
+                CardKeyword.Eternal
             };
         }
     }
