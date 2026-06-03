@@ -27,7 +27,3 @@ After launching the game, you will be asked if you want to play with mods. Confi
 
 You may also copy your profile data over from the same folder by putting it in the `modded` directory.
 
-## Coming soon
-
-- Updated card art
-
